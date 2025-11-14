@@ -1,4 +1,4 @@
-## Olá eu sou o Henzo Marcelo, desenvolvedor e estudamte de TI !
+## Olá eu sou o Henzo Marcelo, desenvolvedor e estudante de TI !
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
